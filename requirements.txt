@@ -3,5 +3,4 @@ pandas
 requests
 numpy
 matplotlib
-os
 datetime
